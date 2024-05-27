@@ -1,4 +1,4 @@
 const propertySchema = new mongoose.Schema({
-    // other fields...
-    likes: { type: Number, default: 0 },
-  });
+  // other fields...
+  likes: { type: Number, default: 0 },
+});
